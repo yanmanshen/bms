@@ -140,7 +140,7 @@ GET /v2.1/\{project\_id\}/servers/\{server\_id\}/os-interface
     </td>
     <td class="cellrowborder" valign="top" width="27.589999999999996%" headers="mcps1.2.4.1.2 "><p id="p65213800"><a name="p65213800"></a><a name="p65213800"></a>String</p>
     </td>
-    <td class="cellrowborder" valign="top" width="43.230000000000004%" headers="mcps1.2.4.1.3 "><p id="p27784979"><a name="p27784979"></a><a name="p27784979"></a>网卡私网IP对应子网的子网ID（subnet_id）。</p>
+    <td class="cellrowborder" valign="top" width="43.230000000000004%" headers="mcps1.2.4.1.3 "><p id="p27784979"><a name="p27784979"></a><a name="p27784979"></a>网卡私网IP对应子网的子网ID（subnet_id）Lps。</p>
     </td>
     </tr>
     <tr id="row48738220"><td class="cellrowborder" valign="top" width="29.18%" headers="mcps1.2.4.1.1 "><p id="p55481787"><a name="p55481787"></a><a name="p55481787"></a>ip_address</p>
